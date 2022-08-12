@@ -244,5 +244,9 @@ td, th{
     .productos li{
         display: block;
     }
+
+    .pag-contacto{
+        margin: 0 1em;
+    }
     
 }
